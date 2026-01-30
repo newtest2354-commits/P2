@@ -1,5 +1,5 @@
 # CA - SS Configurations
-# Updated: 2026-01-30 23:04:14
+# Updated: 2026-01-30 23:25:52
 # Count: 2
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4ZDkwMDA5ZmE1MDIzY2Zh@148.113.143.102:11201#ARISTA🔥

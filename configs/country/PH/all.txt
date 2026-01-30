@@ -1,6 +1,5 @@
 # PH - All Configurations
-# Updated: 2026-01-30 23:04:14
-# Count: 2
+# Updated: 2026-01-30 23:25:52
+# Count: 1
 
 vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6IjE1NC44My4yLjE1NiIsInBvcnQiOiIyMDg2IiwiaWQiOiI5MjM3M2VkMS03OGE4LTRjYmUtYWEwNi01NGFmMWVkZDA0NzEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ2MjA1LjE5NzQwODIyLnh5eiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=
-vless://tel-Channel-ViPv2rayVip@salamsalamsalam.aattaash.com:2087?path=%2F&security=tls&alpn=http%2F1.1%2Ch2&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=newger1.aattaash.com#ARISTA🔥

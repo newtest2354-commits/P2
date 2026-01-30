@@ -1,6 +1,5 @@
 # LT - SS Configurations
-# Updated: 2026-01-30 23:04:14
-# Count: 2
+# Updated: 2026-01-30 23:25:52
+# Count: 1
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.70:8080#ARISTA🔥
