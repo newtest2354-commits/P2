@@ -1,5 +1,5 @@
 # RU - SS Configurations
-# Updated: 2026-01-30 20:29:59
+# Updated: 2026-01-30 21:04:28
 # Count: 2
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeTRUc3J4ZmFKRXhVSWhsY1NxSHBWUUlXSUZNMmpaUg@5.182.37.87:443#ARISTA🔥

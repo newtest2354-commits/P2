@@ -1,5 +1,5 @@
 # CY - TROJAN Configurations
-# Updated: 2026-01-30 20:29:59
+# Updated: 2026-01-30 21:04:28
 # Count: 2
 
 trojan://bpb-trojan@www.csgo.com:443?path=%2Ftr%3Fed%3D2560&security=tls&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#ARISTA🔥

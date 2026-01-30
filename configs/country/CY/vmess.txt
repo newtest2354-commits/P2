@@ -1,5 +1,5 @@
 # CY - VMESS Configurations
-# Updated: 2026-01-30 20:29:59
+# Updated: 2026-01-30 21:04:28
 # Count: 1
 
 vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6InBxLUh1bmdhcnkxLjA5dnBuLmNvbSIsInBvcnQiOjg0NDMsImlkIjoiNmYxZjFhMTgtZWNjNC00NTEzLTg5MGUtZmQxOTMwNDJmNTY0IiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJ0bHMiOiJ0bHMiLCJuYW1lIjoidTY0MDY1MzA4NDYifQ==
