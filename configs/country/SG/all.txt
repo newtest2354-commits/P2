@@ -1,12 +1,10 @@
 # SG - All Configurations
-# Updated: 2026-01-30 19:16:36
-# Count: 8
+# Updated: 2026-01-30 20:05:08
+# Count: 6
 
-vmess://eyJhZGQiOiIxNTAuMTA5LjExLjE5MyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJiNzExOGRjYy1hMjM0LTQ3ODQtZTQ4Ny00MDY0YzI5MjA4MDgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiI4NC4yNDcuMTQ5Ljc3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImZiNjc0MjYwLTFjMjEtNGY5OS04YmQwLTNkMWQzNDFjNjc3MSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDcyMTEiLCJwcyI6IkFSSVNUQfCflKUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxNTAuMTA5LjExLjE5MyIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiJiNzExOGRjYy1hMjM0LTQ3ODQtZTQ4Ny00MDY0YzI5MjA4MDgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwIiwicHMiOiJBUklTVEHwn5SlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwidiI6IjIifQ==
 vless://9d33dc91-fb84-4f96-d9b1-fe28a230a94f@5.223.42.211:443?security=reality&encryption=none&pbk=fXxqq2kGD1gwVUdFEHMtyxDudwQgQRWYz_YM02ONiW8&headerType=none&fp=chrome&spx=%2Fx1&type=tcp&sni=www.faceit.com&sid=f7#ARISTA🔥
-vless://8cecfc42-f81b-4754-9833-9014bd8ba0c8@irandoc.info:443?path=%2F18211%2Fapi%2Fv4&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdn.irandoc.info&fp=random&type=ws&allowInsecure=0&sni=cdn.irandoc.info#ARISTA🔥
-vless://89b3cbba-e6ac-485a-9481-976a0415eab9@47.236.164.215:8443?security=tls&sni=vj.ylks.link&type=ws&path=/#ARISTA🔥
 vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#ARISTA🔥
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjU0LjE5OS4xMjI6NDQz#ARISTA🔥

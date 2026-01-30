@@ -1,16 +1,15 @@
 # RU - VLESS Configurations
-# Updated: 2026-01-30 19:16:36
-# Count: 12
+# Updated: 2026-01-30 20:05:08
+# Count: 11
 
-vless://beab408c-6aa3-43b9-a1ca-e6fabba5d8e7@147.45.60.6:443?security=reality&encryption=none&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#ARISTA🔥
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
-vless://1305886a-1725-4abc-9be1-f11bf6cbaf4f@45.67.215.233:443?path=%2Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=p1.ygmania.site&fp=chrome&type=ws&allowInsecure=0&sni=p1.ygmania.site#ARISTA🔥
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.106.63:8880?security=tls&sni=jp.laoyoutiao.link&type=ws&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3&host=jp.laoyoutiao.link&packetEncoding=xudp&encryption=none#ARISTA🔥
-vless://00c49863-6d15-4289-9229-841ee5f7868c@178.250.246.86:1488?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#ARISTA🔥
-vless://3c7a1227-5383-3a19-7084-76624ec8f84f@147.78.180.10:443?security=reality&encryption=none&pbk=Ot7NIMwy588LBegSSLxqxzXh9MszA0CxFPHbSAj7PR0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#ARISTA🔥
-vless://2ad6bd90-51fd-41d2-985b-b7aab5cd77c8@212.111.84.64:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=m.vk.ru&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=205748bc0f24a747#ARISTA🔥
 vless://309fa273-6579-4cb2-9143-7cad50401eba@185.130.114.253:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#ARISTA🔥
 vless://fd4b0117-d752-46fd-9a94-21a21e360fdb@84.201.130.151:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=io.ozone.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=cf4d&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#ARISTA🔥
 vless://c495cf08-e046-4311-aa4b-82cc16576992@51.250.75.169:444?encryption=none&type=grpc&mode=gun&serviceName=ads.x5.ru&security=reality&fp=chrome&sni=ads.x5.ru&pbk=L0ZCh9LynIMEkK9BZq3gC--mzL6xnR4bkBJmXHSwVCM&sid=0614386789abcdef&spx=/@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn----@Evay_vpn#ARISTA🔥
+vless://2ad6bd90-51fd-41d2-985b-b7aab5cd77c8@146.185.240.23:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=205748bc0f24a747#ARISTA🔥
+vless://beab408c-6aa3-43b9-a1ca-e6fabba5d8e7@193.233.199.219:443?security=reality&encryption=none&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#ARISTA🔥
 vless://495d0938-b565-4f65-aa65-cbe876aadf47@yt.fasssst.ru:444?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=yt.fasssst.ru&pbk=14S-a9NL1PacapqVE4ojKZeEM5995jFyfwS0xc9UtRk&sid=1c2a18e708a1be9d#ARISTA🔥
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@185.148.106.63:8880?security=tls&sni=jp.laoyoutiao.link&type=ws&path=/Telegram%F0%9F%87%A8%F0%9F%87%B3&host=jp.laoyoutiao.link&packetEncoding=xudp&encryption=none#ARISTA🔥
+vless://b4b8aa1f-77d2-4851-a5a4-f78886f3e997@138.124.186.201:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com#ARISTA🔥
 vless://3a83ab7a-9b6f-460c-a128-1799f63695e3@89.208.86.65:443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f32140952ba18e18#ARISTA🔥
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@194.4.49.4:8880?mode=gun&security=&encryption=none&type=grpc#ARISTA🔥
+vless://1305886a-1725-4abc-9be1-f11bf6cbaf4f@45.67.215.233:443?path=%2Fed%3D2048&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=p1.ygmania.site&fp=chrome&type=ws&allowInsecure=0&sni=p1.ygmania.site#ARISTA🔥

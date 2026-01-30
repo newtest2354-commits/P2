@@ -1,5 +1,0 @@
-# HK - VLESS Configurations
-# Updated: 2026-01-30 19:16:36
-# Count: 1
-
-vless://admib@8.218.230.193:80?security=none&seed=%40rootface%20telegram%20%F0%9F%91%91%20lets%20hack%20myself.&encryption=none&headerType=none&type=kcp#ARISTA🔥

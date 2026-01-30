@@ -1,5 +1,5 @@
 # EE - VLESS Configurations
-# Updated: 2026-01-30 19:16:36
+# Updated: 2026-01-30 20:05:08
 # Count: 1
 
-vless://726fbc17-dd31-49fc-93b6-75af1abad99e@ee01.keyinvest.org:443/?type=grpc&encryption=none&flow=&sni=keyinvest.org&fp=chrome&security=reality&pbk=G39Eg-wogA8ErCPDN0SOwh-9QHJ-PrIIs_EKVvPeeAY&sid=#ARISTA🔥
+vless://beab408c-6aa3-43b9-a1ca-e6fabba5d8e7@147.45.60.6:443?security=reality&encryption=none&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#ARISTA🔥

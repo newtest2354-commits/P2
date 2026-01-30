@@ -1,5 +1,5 @@
 # HK - TROJAN Configurations
-# Updated: 2026-01-30 19:16:36
+# Updated: 2026-01-30 20:05:08
 # Count: 2
 
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#ARISTA🔥

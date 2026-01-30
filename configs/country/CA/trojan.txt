@@ -1,5 +1,5 @@
 # CA - TROJAN Configurations
-# Updated: 2026-01-30 19:16:36
+# Updated: 2026-01-30 20:05:08
 # Count: 1
 
 trojan://chslToBpxJ@209.200.246.248:22086/?type=grpc&serviceName=&authority=&security=reality&pbk=Bo-0prp3Nlf3NX9egy-iCjLBONYo9j2lniXaEtET3ns&fp=chrome&sni=www.cloudflare.com&sid=4f69441f911943&spx=%2F#ARISTA🔥
