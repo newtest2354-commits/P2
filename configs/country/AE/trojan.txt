@@ -1,5 +1,5 @@
 # AE - TROJAN Configurations
-# Updated: 2026-01-30 22:25:05
+# Updated: 2026-01-30 23:04:14
 # Count: 3
 
 trojan://bpb-trojan@94.140.0.1:443?path=%2Ftr%3Fed%3D2560&security=tls&host=singbox.lu567890.us.kg&fp=chrome&type=ws&sni=singbox.lu567890.us.kg#ARISTA🔥

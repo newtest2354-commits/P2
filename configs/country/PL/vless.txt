@@ -1,7 +1,7 @@
 # PL - VLESS Configurations
-# Updated: 2026-01-30 22:25:05
+# Updated: 2026-01-30 23:04:14
 # Count: 3
 
-vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#ARISTA🔥
 vless://b5154b7e-3a59-4537-a163-1d5a73d4b4bb@146.59.116.201:443?mode=gun&security=reality&encryption=none&pbk=-q5LnD8S-F7Q6khGlle_aovNZt3fhmxCYHjbWXZvdUQ&fp=firefox&spx=%2F&type=grpc&serviceName=@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn&sni=convertio.co&sid=e3b41bfe#ARISTA🔥
 vless://c7060866-29f6-49b8-b13b-cf95dc4a0e79@146.59.116.201:443?mode=gun&security=reality&encryption=none&pbk=-q5LnD8S-F7Q6khGlle_aovNZt3fhmxCYHjbWXZvdUQ&fp=firefox&spx=%2F&type=grpc&serviceName=@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn&sni=convertio.co&sid=e3b41bfe#ARISTA🔥
+vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#ARISTA🔥
