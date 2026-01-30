@@ -1,56 +1,57 @@
 # Classification Statistics
-# Updated: 2026-01-30 18:43:25
+# Updated: 2026-01-30 19:16:36
 
-Total Countries: 41
-Total Configs: 671
-Unknown Configs: 572
+Total Countries: 42
+Total Configs: 823
+Unknown Configs: 413
 Failed Configs: 0
 
 By Country:
-DE: 141
-US: 140
-IR: 119
-FR: 36
-NL: 30
-GB: 21
-CA: 20
-FI: 19
-RU: 17
+DE: 152
+US: 146
+IR: 135
+CA: 85
+FR: 40
+NL: 33
+GB: 27
+FI: 24
+RU: 18
+ZA: 18
+SE: 16
+AE: 15
 HK: 14
-SE: 14
-AE: 14
+MD: 10
+SC: 9
+SG: 8
+AT: 8
 IN: 7
-MD: 7
-SG: 6
-SC: 6
-TR: 6
 CH: 6
-CY: 6
-PL: 4
-CN: 3
-AT: 3
+TR: 6
+PL: 5
+CY: 5
+CN: 4
 UA: 3
+RO: 3
 KZ: 3
 LT: 3
-ZA: 2
 PH: 2
 IT: 2
 JP: 2
 CZ: 2
-RO: 2
 TW: 2
 MY: 1
 BR: 1
 EE: 1
 BE: 1
-IL: 1
+IS: 1
 ES: 1
+IL: 1
 AU: 1
 GR: 1
 IE: 1
 
 By Type:
-vless: 473
-vmess: 140
+vless: 611
+vmess: 154
 ss: 32
 trojan: 26

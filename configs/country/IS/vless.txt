@@ -1,0 +1,5 @@
+# IS - VLESS Configurations
+# Updated: 2026-01-30 19:16:36
+# Count: 1
+
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@89.221.224.238:8880?mode=gun&security=none&encryption=none&type=grpc#ARISTA🔥

@@ -1,7 +1,7 @@
 # KZ - VLESS Configurations
-# Updated: 2026-01-30 18:43:25
+# Updated: 2026-01-30 19:16:36
 # Count: 3
 
-vless://3ec7f62c-147f-44b6-83ab-36969aeb8341@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥
-vless://80115515-eb00-4d28-8f02-66b3e3e6a515@212.111.85.1:8443?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=1929ef620e9b34f5#ARISTA🔥
 vless://d4d031ec-0ba6-486a-aa0c-dce2b7cb8933@212.111.84.187:8443?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=887c0d72e771a934#ARISTA🔥
+vless://80115515-eb00-4d28-8f02-66b3e3e6a515@212.111.85.1:8443?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=1929ef620e9b34f5#ARISTA🔥
+vless://3ec7f62c-147f-44b6-83ab-36969aeb8341@91.217.10.166:9443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api.avito.ru&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#ARISTA🔥

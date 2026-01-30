@@ -1,5 +1,5 @@
 # IT - VLESS Configurations
-# Updated: 2026-01-30 18:43:25
+# Updated: 2026-01-30 19:16:36
 # Count: 1
 
 vless://bc8d688b-0a20-2395-3d15-8d60e46a7319@usrtjgrdyjf543YJYJ.fastlynew.hosting-ip.com:80?host=usa5065.global.ssl.fastly.net&security=none&type=ws&path=%2F&encryption=none#ARISTA🔥

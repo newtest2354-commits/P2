@@ -1,5 +1,5 @@
 # BR - All Configurations
-# Updated: 2026-01-30 18:43:25
+# Updated: 2026-01-30 19:16:36
 # Count: 1
 
 vmess://eyJhZGQiOiI5NS4xNjQuNC4xNDAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzE4MjBlNjItN2I5OS00ZWQ5LWE4MzYtMWUwZjgxNGMzM2ExIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1MjkzNyIsInBzIjoiQVJJU1RB8J+UpSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=

@@ -1,6 +1,8 @@
 # SG - VLESS Configurations
-# Updated: 2026-01-30 18:43:25
-# Count: 2
+# Updated: 2026-01-30 19:16:36
+# Count: 4
 
-vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#ARISTA🔥
 vless://9d33dc91-fb84-4f96-d9b1-fe28a230a94f@5.223.42.211:443?security=reality&encryption=none&pbk=fXxqq2kGD1gwVUdFEHMtyxDudwQgQRWYz_YM02ONiW8&headerType=none&fp=chrome&spx=%2Fx1&type=tcp&sni=www.faceit.com&sid=f7#ARISTA🔥
+vless://8cecfc42-f81b-4754-9833-9014bd8ba0c8@irandoc.info:443?path=%2F18211%2Fapi%2Fv4&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cdn.irandoc.info&fp=random&type=ws&allowInsecure=0&sni=cdn.irandoc.info#ARISTA🔥
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@47.236.164.215:8443?security=tls&sni=vj.ylks.link&type=ws&path=/#ARISTA🔥
+vless://47867494-9509-4c32-a90a-e9253b033279@fn11.irsbv2.ir:443?path=%2F&security=none&encryption=none&host=cloudflare.com&type=ws#ARISTA🔥
