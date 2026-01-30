@@ -1,6 +1,5 @@
 # FR - SS Configurations
-# Updated: 2026-01-30 21:32:06
-# Count: 2
+# Updated: 2026-01-30 21:55:52
+# Count: 1
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.140:443#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwdmd6OXBx@54.36.174.134:443#ARISTA🔥

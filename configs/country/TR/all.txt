@@ -1,10 +1,10 @@
 # TR - All Configurations
-# Updated: 2026-01-30 21:32:06
+# Updated: 2026-01-30 21:55:52
 # Count: 6
 
-vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6IjQ1Ljg5LjUyLjIwNyIsInBvcnQiOiIzOTY1MSIsImlkIjoiYWM0YzEyYzUtNDVmMi00Mzk4LWE3MTgtOTk4Mzk0MWVkZTJiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIiwiYWxwbiI6IiJ9
 vless://f4695c75-13cc-45d7-b06e-6d86c3165a42@tr-node.vopn.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tr-node.vopn.net&fp=qq&security=reality&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&sid=63c359bdc3f8562b#ARISTA🔥
-vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#ARISTA🔥
 vless://e3e3961e-12f7-454d-acf4-9e899a2804c7@tr.mizbanandata.com:443?security=reality&type=tcp&headerType=&path=&host=&sni=jetbrains.com&fp=firefox&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&sid=fd1dff03520d8f56#ARISTA🔥
-vless://7ee4671c-6b18-4574-8498-d6d7979218e5@ardagulerturk.vtuix.space:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#ARISTA🔥
+vless://ff0e767c-747e-4a6d-b3c9-ba0d602ec939@tu.a.speedgloobalontop.ir:2088?security=none&type=tcp&headerType=&path=&host=#ARISTA🔥
 vless://3ec7f62c-147f-44b6-83ab-36969aeb8341@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#ARISTA🔥
+vless://f50407c6-f465-4a6b-8a28-bbef97c4b308@t5.nalbi.ir:9050?type=ws&host=coresite.com&path=/download#ARISTA🔥
+vless://7ee4671c-6b18-4574-8498-d6d7979218e5@ardagulerturk.vtuix.space:7035?path=%2F&security=none&encryption=none&host=filimo.com&type=ws#ARISTA🔥
