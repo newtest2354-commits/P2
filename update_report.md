@@ -1,36 +1,36 @@
 ARISTA CONFIG UPDATE REPORT
 ===========================
 
-Update Time: 2026-01-30 23:25 UTC
-Workflow Run: 21533992195
+Update Time: 2026-01-30 23:59 UTC
+Workflow Run: 21534596292
 
 ## Config Statistics
-- Telegram Configs: 1254
+- Telegram Configs: 1270
 - GitHub Configs: 0
-- Combined Configs: 1254
+- Combined Configs: 1270
 - Classified Countries: 58
 
 ## Country Classification
 By Country:
-DE: 168
-IR: 145
-US: 144
-CA: 95
-FR: 43
-NL: 34
+DE: 171
+US: 161
+IR: 147
+CA: 81
+FR: 46
+NL: 35
 GB: 30
-FI: 23
-RU: 21
-AE: 18
-SE: 16
+FI: 24
+RU: 23
+AE: 19
+SE: 14
 HK: 13
 SC: 11
 CY: 10
 IN: 8
-SG: 8
-MD: 8
-PL: 7
-AT: 6
+SG: 7
+MD: 7
+TR: 7
+PL: 6
 KZ: 6
 
 ## Next Update

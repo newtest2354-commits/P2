@@ -1,5 +1,5 @@
 # PL - VLESS Configurations
-# Updated: 2026-01-30 23:25:52
+# Updated: 2026-01-30 23:59:52
 # Count: 3
 
 vless://195573b7-ea63-485e-b2a5-58dd7bbfc9f7@plb.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=xhttp&sni=plb.tunnelguard.ru#ARISTA🔥
