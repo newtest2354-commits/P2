@@ -1,6 +1,0 @@
-# Combined HYSTERIA2 Configurations
-# Updated: 2026-01-30 21:54:29
-# Count: 1
-# Sources: Telegram (1) + GitHub (0)
-
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#ARISTA🔥
