@@ -1,0 +1,5 @@
+# IL - VLESS Configurations
+# Updated: 2026-01-30 18:43:25
+# Count: 1
+
+vless://38b53ad9-1401-4443-95e4-0af56c1cc3d0@185.241.5.151:446/?type=tcp&encryption=none&flow=#ARISTA🔥

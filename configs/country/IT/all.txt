@@ -1,0 +1,6 @@
+# IT - All Configurations
+# Updated: 2026-01-30 18:43:25
+# Count: 2
+
+vmess://eyJhZGQiOiIxMDkuMTIyLjIwOS43OCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiIyMjUzMWIzZi01NjBjLTQ3ODktOWI1OC0wMmViZWM0ZjMxYWMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEwMDMiLCJwcyI6IkFSSVNUQfCflKUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://bc8d688b-0a20-2395-3d15-8d60e46a7319@usrtjgrdyjf543YJYJ.fastlynew.hosting-ip.com:80?host=usa5065.global.ssl.fastly.net&security=none&type=ws&path=%2F&encryption=none#ARISTA🔥
