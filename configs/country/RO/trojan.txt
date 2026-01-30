@@ -1,5 +1,5 @@
 # RO - TROJAN Configurations
-# Updated: 2026-01-30 20:05:08
+# Updated: 2026-01-30 20:29:59
 # Count: 1
 
 trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#ARISTA🔥
