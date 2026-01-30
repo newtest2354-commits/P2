@@ -1,5 +1,0 @@
-# GB - TROJAN Configurations
-# Updated: 2026-01-30 21:04:28
-# Count: 1
-
-trojan://telegram-id-privatevpns@13.41.100.6:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#ARISTA🔥

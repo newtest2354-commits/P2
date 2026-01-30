@@ -1,5 +1,5 @@
 # US - TROJAN Configurations
-# Updated: 2026-01-30 21:04:28
+# Updated: 2026-01-30 21:32:06
 # Count: 1
 
 trojan://6a5cb4b7-8dad-3077-b21c-6f47e8dfb9af@iplc.xiaohouzi.club:20011?allowInsecure=1&peer=supaz012.xiaohouzi.club#ARISTA🔥
