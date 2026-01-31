@@ -1,5 +1,0 @@
-# PH - VMESS Configurations
-# Updated: 2026-01-31 01:13:58
-# Count: 1
-
-vmess://eyJ2IjoiMiIsInBzIjoiQVJJU1RB8J+UpSIsImFkZCI6IjE1NC44My4yLjE1NiIsInBvcnQiOiIyMDg2IiwiaWQiOiI5MjM3M2VkMS03OGE4LTRjYmUtYWEwNi01NGFmMWVkZDA0NzEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Ii0tLSIsImhvc3QiOiJ2MjA1LjE5NzQwODIyLnh5eiIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=

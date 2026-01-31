@@ -1,5 +1,0 @@
-# IT - VLESS Configurations
-# Updated: 2026-01-31 01:13:58
-# Count: 1
-
-vless://eda2c296-a990-4d41-bbdf-f9c96b9579cd@84.17.58.152:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=tradingview.com&sid=6419bed7fd0a2cff&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none#ARISTA🔥
