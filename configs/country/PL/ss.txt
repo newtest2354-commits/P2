@@ -1,6 +1,5 @@
 # PL - SS Configurations
-# Updated: 2026-01-30 23:59:52
-# Count: 2
+# Updated: 2026-01-31 01:13:58
+# Count: 1
 
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@217.30.10.18:9011#ARISTA🔥
-ss://YWVzLTI1Ni1jZmI6VVdaUWVMUldua3Fna3NlcQ@217.30.10.18:9032#ARISTA🔥

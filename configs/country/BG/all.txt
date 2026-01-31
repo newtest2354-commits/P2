@@ -1,5 +1,5 @@
 # BG - All Configurations
-# Updated: 2026-01-30 23:59:52
+# Updated: 2026-01-31 01:13:58
 # Count: 1
 
 vless://829658bf-03c4-4c28-81e9-dd6ea141b2d0@147.78.140.0:8443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=5jq7fvwpqt5owo2fi198sa6qoxznkzfea7en4m3xroeqrt3u3q.zjde5.de5.net#ARISTA🔥

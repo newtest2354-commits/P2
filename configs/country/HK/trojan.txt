@@ -1,5 +1,5 @@
 # HK - TROJAN Configurations
-# Updated: 2026-01-30 23:59:52
+# Updated: 2026-01-31 01:13:58
 # Count: 2
 
 trojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&serviceName=&authority=&security=reality&pbk=AxHqJCigFf4BzJlj4EeD6FloA-PYwr2rw2clWtCB4FU&fp=chrome&sni=www.amazon.com&sid=803975&spx=%2F#ARISTA🔥

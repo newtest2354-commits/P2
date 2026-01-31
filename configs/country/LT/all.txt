@@ -1,7 +1,6 @@
 # LT - All Configurations
-# Updated: 2026-01-30 23:59:52
-# Count: 3
+# Updated: 2026-01-31 01:13:58
+# Count: 2
 
 vless://722401dd-0bfd-ef9b-6c83-1b80913d318c@edge-node01.lornanet.ir:6891?security=reality&encryption=none&pbk=dQYahYS6055ghu03hkvNxv9geHCJHqASFVbXs3v1jDw&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=rEfErSion.Com&sid=e99768d076c05ab2#ARISTA🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.92:8080#ARISTA🔥
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.158.171.70:8080#ARISTA🔥

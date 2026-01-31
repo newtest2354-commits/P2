@@ -1,7 +1,6 @@
 # UA - VLESS Configurations
-# Updated: 2026-01-30 23:59:52
-# Count: 3
+# Updated: 2026-01-31 01:13:58
+# Count: 2
 
 vless://fdeecee7-dbed-47f6-bea2-cb0073b5e435@cl6-ndl.privetnet.ru:7443?path=%2Fvless&security=&encryption=none&type=ws#ARISTA🔥
 vless://fdeecee7-dbed-47f6-bea2-cb0073b5e435@cl6-ndl.privetnet.ru:7443?path=%2Fvless&security=none&encryption=none&type=ws#ARISTA🔥
-vless://5ebd4347-904e-5baa-a195-e6673fa81cb6@95.164.34.105:2082?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless-grpc#ARISTA🔥

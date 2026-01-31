@@ -1,5 +1,6 @@
 # RO - All Configurations
-# Updated: 2026-01-30 23:59:52
-# Count: 1
+# Updated: 2026-01-31 01:13:58
+# Count: 2
 
 trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#ARISTA🔥
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPeTRUc3J4ZmFKRXhVSWhsY1NxSHBWUUlXSUZNMmpaUg@5.182.37.87:443#ARISTA🔥

@@ -1,5 +1,5 @@
 # KZ - SS Configurations
-# Updated: 2026-01-30 23:59:52
+# Updated: 2026-01-31 01:13:58
 # Count: 1
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw==@103.106.3.82:443#ARISTA🔥
